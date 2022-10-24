@@ -1,1 +1,26 @@
+DevOps rappresenta un insieme di idee e procedure che va ben oltre il significato di questi due termini. DevOps include sicurezza, modalità di lavoro collaborative, analisi dei dati e molti altri aspetti.
+Il termine "DevOps" è una combinazione di "Development" (sviluppo) e "Operations" (operazioni)
 
+Vantaggi : Accelerazione del time-to-market
+           Adattamento al mercato e alla competizione
+           Conservazione della stabilità e dell'affidabilità del sistema
+           Miglioramento del tempo medio per il ripristino
+           
+N.B. In una cultura DevOps effettiva ogni ruolo è coinvolto in qualche misura in ogni fase.
+
+Cultura DevOps
+Benché l'adozione delle procedure DevOps automatizzi e ottimizzi i processi tramite la tecnologia, tutto è basato sulla cultura interna dell'organizzazione e sulle persone che contribuiscono al lavoro. Per stabilire una cultura DevOps sono necessarie profonde modifiche al modo in cui per persone lavorano e collaborano. Quando le organizzazioni scelgono di adottare una cultura DevOps possono tuttavia creare l'ambiente per lo sviluppo di team a prestazioni elevate.
+
+I 4 aspetti fondamentali della cultura DevOps sono :
+Collaborazione, visibilità e allineamento
+Cambiamenti a livello di ambito e responsabilità
+Cicli di rilascio più brevi
+Apprendimento continuo
+
+DevOps e il cloud
+L'adozione del cloud ha trasformato in modo significativo il modo in cui i team creano, distribuiscono e gestiscono le applicazioni. L'adozione di DevOps inoltre offre ai team maggiori opportunità di miglioramento delle procedure e del servizio clienti.
+
+vantaggi : Flessibilità cloud
+Grazie alla possibilità di effettuare rapidamente il provisioning e configurare ambienti cloud in più aree con risorse illimitate, i team ottengono flessibilità per la distribuzione delle app. Invece di dover acquistare, configurare e mantenere server fisici, i team creano ora ambienti cloud complessi in pochi minuti e quindi li arrestano quando non sono più necessari.
+
+FONTE : https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-devops/#devops-overview
